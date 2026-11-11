@@ -1,0 +1,4 @@
+
+
+login once and store content in some session.json and use that session.json in your tests
+
